@@ -42,6 +42,4 @@ This project analyzes organizational IT spending using Power BI. The dashboard p
 * Presentation Script
 * README Documentation
 
-## Author
 
-[Your Name]
